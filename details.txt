@@ -1,0 +1,11 @@
+hostname:
+projectdb.coe4avf23rbf.ap-south-1.rds.amazonaws.com
+
+port:
+3306
+
+username:
+bankdbgroup
+
+password:
+bdbcse202
